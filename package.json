@@ -1,0 +1,16 @@
+{
+  "name": "uart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gateware-ts": "^0.3.0-beta.1",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
+}
